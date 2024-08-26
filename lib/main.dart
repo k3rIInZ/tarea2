@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
           if (num2 != 0) {
             _result = num1 / num2;
           } else {
-            _result = null; // Para manejar la división por cero
+            _result = null; 
           }
         });
         break;
